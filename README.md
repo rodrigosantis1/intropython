@@ -18,7 +18,7 @@ Prof.: Rodrigo Barbosa de Santis
 
 ## Apostila com Notas de Aula
 
-* [Notas de Aula](https://www.scribd.com/document/426243007/Introducao-ao-Python)
+* [Introdução ao Python - Notas de Aula](https://www.scribd.com/document/426243007/Introducao-ao-Python)
 
 ## Exercícios Complementar
 Para quem quiser praticar mais a linguagem Python:
