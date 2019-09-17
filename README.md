@@ -14,7 +14,7 @@ Prof.: Rodrigo Barbosa de Santis
 * Capítulo 7. Seleção de Modelos
 * Capítulo 8. Engenharia de Atributos e Pipeline
 * Capítulo 9. Mineração de Texto
-* Capítulo 10. Aprendizado Profundo
+* Capítulo 10. Aprendizado Profundo - [Aula](https://github.com/rodrigosantis1/intropython/blob/master/Aulas/Cap%2010%20-%20Aprendizado%20Profundo.ipynb)
 
 ## Apostila com Notas de Aula
 
