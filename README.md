@@ -15,3 +15,8 @@ Prof.: Rodrigo Barbosa de Santis
 * Capítulo 8. Engenharia de Atributos e Pipeline
 * Capítulo 9. Mineração de Texto
 * Capítulo 10. Aprendizado Profundo
+
+
+# Material Complementar
+
+* [Notas de Aula](https://www.scribd.com/document/426243007/Introducao-ao-Python)
