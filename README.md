@@ -27,7 +27,7 @@ Para quem quiser praticar mais a linguagem Python:
 
 ## Software
 
-*  [Anaconda](https://www.anaconda.com/) - Distro gratuita e open source para programação em Python e R
+*  [Anaconda](https://www.anaconda.com/) - Distro gratuita e open source para programação em Python e R.
 
 ## Referências
 
