@@ -17,6 +17,11 @@ Prof.: Rodrigo Barbosa de Santis
 * Capítulo 10. Aprendizado Profundo
 
 
-# Material Complementar
+## Material Complementar
 
 * [Notas de Aula](https://www.scribd.com/document/426243007/Introducao-ao-Python)
+
+## Referências
+
+* Lutz, Mark. Programming Python: powerful object-oriented programming. " O'Reilly Media, Inc.", 2010.
+* Müller, Andreas C., and Sarah Guido. Introduction to machine learning with Python: a guide for data scientists. " O'Reilly Media, Inc.", 2016.
