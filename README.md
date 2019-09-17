@@ -6,7 +6,7 @@ Prof.: Rodrigo Barbosa de Santis
 ## Conteúdo
 
 * Capítulo 1. Introdução
-* Capítulo 2. Comandos Básicos em Python
+* Capítulo 2. Comandos Básicos em Python [Aula](Aulas/Cap 2 - Comandos Basicos em Python.ipynb) | [Exercício](Exercícios/Cap 2 - Comandos Básicos em Python.ipynb)
 * Capítulo 3. Cálculo Numerico com NumPy
 * Capítulo 4. Análise Exploratória de Dados
 * Capítulo 5. Aprendizado Supervisionado
