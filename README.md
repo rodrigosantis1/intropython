@@ -16,10 +16,18 @@ Prof.: Rodrigo Barbosa de Santis
 * Capítulo 9. Mineração de Texto
 * Capítulo 10. Aprendizado Profundo
 
-
-## Material Complementar
+## Apostila com Notas de Aula
 
 * [Notas de Aula](https://www.scribd.com/document/426243007/Introducao-ao-Python)
+
+## Exercícios Complementar
+Para quem quiser praticar mais a linguagem Python:
+* [PyNative.com] (https://pynative.com/python-exercises-with-solutions/)
+* [PracticePython.org] (https://www.practicepython.org/)
+
+## Software
+
+*  [Anaconda](https://www.anaconda.com/) - Distro gratuita e open source para programação em Python e R
 
 ## Referências
 
