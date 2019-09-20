@@ -14,25 +14,28 @@ Prof.: Rodrigo Barbosa de Santis
 * Capítulo 7. Seleção de Modelos
 * Capítulo 8. Engenharia de Atributos e Pipeline
 * Capítulo 9. Mineração de Texto
-* Capítulo 10. Aprendizado Profundo - [Playground](https://playground.tensorflow.org/) | [Script](https://github.com/rodrigosantis1/intropython/blob/master/Scripts/Cap%2010%20-%20Aprendizado%20Profundo.ipynb)
+* Capítulo 10. Aprendizado Profundo -  | [Script](https://github.com/rodrigosantis1/intropython/blob/master/Scripts/Cap%2010%20-%20Aprendizado%20Profundo.ipynb)
 
 ## Apostila com Notas de Aula
 
 * [Introdução ao Python - Notas de Aula](https://www.scribd.com/document/426243007/Introducao-ao-Python)
 
-## Exercícios Complementar de Python
-Para quem quiser praticar mais a linguagem Python:
+## Material Complementar
+
+### Para quem quiser praticar mais a linguagem Python:
 * [PyNative.com](https://pynative.com/python-exercises-with-solutions/)
 * [PracticePython.org](https://www.practicepython.org/)
 
-
-## EDA
-Análises exploratórios interessantes:
+### Análises exploratórios interessantes - EDA:
 
 * [Titanic](https://www.kaggle.com/ash316/eda-to-prediction-dietanic)
 * [Stock Movement](https://www.kaggle.com/artgor/eda-feature-engineering-and-everything)
 * [Boston House](https://www.kaggle.com/dgawlik/house-prices-eda)
 * [Medical Cost](https://virtual.ufmg.br/20192/mod/url/view.php?id=74373)
+
+### Entenda melhor redes neurais:
+* [TensorFlow PlayGround](https://playground.tensorflow.org/)
+
 
 ## Software
 
