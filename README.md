@@ -14,7 +14,7 @@ Prof.: Rodrigo Barbosa de Santis
 * Capítulo 7. Seleção de Modelos - [Script](https://github.com/rodrigosantis1/intropython/blob/master/Scripts/Cap%2007%20-%20Sele%C3%A7%C3%A3o%20de%20Modelos.ipynb)
 * Capítulo 8. Engenharia de Atributos e Pipeline
 * Capítulo 9. Mineração de Texto
-* Capítulo 10. Aprendizado Profundo -  | [Script](https://github.com/rodrigosantis1/intropython/blob/master/Scripts/Cap%2010%20-%20Aprendizado%20Profundo.ipynb)
+* Capítulo 10. Aprendizado Profundo -  [Script](https://github.com/rodrigosantis1/intropython/blob/master/Scripts/Cap%2010%20-%20Aprendizado%20Profundo.ipynb)
 
 ## Apostila com Notas de Aula
 
