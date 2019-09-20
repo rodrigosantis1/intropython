@@ -20,14 +20,10 @@ Prof.: Rodrigo Barbosa de Santis
 
 * [Introdução ao Python - Notas de Aula](https://www.scribd.com/document/426243007/Introducao-ao-Python)
 
-## Exercícios Complementar
+## Exercícios Complementar de Python
 Para quem quiser praticar mais a linguagem Python:
 * [PyNative.com](https://pynative.com/python-exercises-with-solutions/)
 * [PracticePython.org](https://www.practicepython.org/)
-
-## Software
-
-*  [Anaconda](https://www.anaconda.com/) - Distro gratuita e open source para programação em Python e R.
 
 
 ## EDA
@@ -38,6 +34,9 @@ Análises exploratórios interessantes:
 * [Boston House](https://www.kaggle.com/dgawlik/house-prices-eda)
 * [Medical Cost](https://virtual.ufmg.br/20192/mod/url/view.php?id=74373)
 
+## Software
+
+*  [Anaconda](https://www.anaconda.com/) - Distro gratuita e open source para programação em Python e R.
 
 ## Referências
 
