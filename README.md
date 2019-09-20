@@ -22,7 +22,7 @@ Prof.: Rodrigo Barbosa de Santis
 
 ## Material Complementar
 
-### Para quem quiser praticar mais a linguagem Python:
+#### Para quem quiser praticar mais a linguagem Python:
 * [PyNative.com](https://pynative.com/python-exercises-with-solutions/)
 * [PracticePython.org](https://www.practicepython.org/)
 
