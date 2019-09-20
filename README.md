@@ -26,14 +26,14 @@ Prof.: Rodrigo Barbosa de Santis
 * [PyNative.com](https://pynative.com/python-exercises-with-solutions/)
 * [PracticePython.org](https://www.practicepython.org/)
 
-### Análises exploratórios interessantes - EDA:
+#### Análises exploratórios interessantes - EDA:
 
 * [Titanic](https://www.kaggle.com/ash316/eda-to-prediction-dietanic)
 * [Stock Movement](https://www.kaggle.com/artgor/eda-feature-engineering-and-everything)
 * [Boston House](https://www.kaggle.com/dgawlik/house-prices-eda)
 * [Medical Cost](https://virtual.ufmg.br/20192/mod/url/view.php?id=74373)
 
-### Entenda melhor redes neurais:
+#### Entenda melhor redes neurais:
 * [TensorFlow PlayGround](https://playground.tensorflow.org/)
 
 
