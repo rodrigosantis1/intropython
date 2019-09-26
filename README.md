@@ -22,13 +22,17 @@ Prof.: Rodrigo Barbosa de Santis
 
 ## Material Complementar
 
-#### Exercícios de Python:
+### Python
+#### Exercícios:
 * [PyNative.com](https://pynative.com/python-exercises-with-solutions/)
 * [PracticePython.org](https://www.practicepython.org/)
 
-#### Tutoriais de Python:
+#### Tutoriais:
 * [Kaggle (~7 horas)](https://www.kaggle.com/learn/python)
 * [Microsoft (44 aulas < 5 min)](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
+
+
+### EDA
 
 #### Análises exploratórios interessantes - EDA:
 
@@ -36,6 +40,8 @@ Prof.: Rodrigo Barbosa de Santis
 * [Stock Movement](https://www.kaggle.com/artgor/eda-feature-engineering-and-everything)
 * [Boston House](https://www.kaggle.com/dgawlik/house-prices-eda)
 * [Medical Cost](https://virtual.ufmg.br/20192/mod/url/view.php?id=74373)
+
+### Aprendizado profundo:
 
 #### Entenda melhor redes neurais:
 * [TensorFlow PlayGround](https://playground.tensorflow.org/)
