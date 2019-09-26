@@ -41,7 +41,7 @@ Prof.: Rodrigo Barbosa de Santis
 * [Boston House](https://www.kaggle.com/dgawlik/house-prices-eda)
 * [Medical Cost](https://virtual.ufmg.br/20192/mod/url/view.php?id=74373)
 
-### Aprendizado profundo:
+### Deep learning
 
 #### Entenda melhor redes neurais:
 * [TensorFlow PlayGround](https://playground.tensorflow.org/)
