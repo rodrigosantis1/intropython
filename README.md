@@ -22,9 +22,13 @@ Prof.: Rodrigo Barbosa de Santis
 
 ## Material Complementar
 
-#### Para quem quiser praticar mais a linguagem Python:
+#### Exercícios de Python:
 * [PyNative.com](https://pynative.com/python-exercises-with-solutions/)
 * [PracticePython.org](https://www.practicepython.org/)
+
+### Curso de Python:
+* [Kaggle (~7 horas)](https://www.kaggle.com/learn/python)
+* [Microsoft (44 aulas < 5 min)](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
 
 #### Análises exploratórios interessantes - EDA:
 
