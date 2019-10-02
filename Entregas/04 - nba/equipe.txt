@@ -1,0 +1,9 @@
+Beatriz Amancio Sofal
+Igor Galvão
+Victor Covello
+Vitor Publio
+
+Comentários:
+Acho que a estratégia que vocês escolheram de eliminar as colunas com muitos dados faltantes foi apropriada, pois muito dos dados devem ter começado a ser coletados nos ultimos anos. Esse aumento da complexidade foi bem mostrada no gráfico de volume de dados por temporada.
+O gráfico de dispersão de minutos vs pontuação ficou muito bom, mas uma outra forma de ter representado que talvez teria ficado mais visual, teria sido plotar uma linha para cada jogador.
+Todos os gráficos plotados trazem insights legais sobre o NBA, como a análise de idade, a média por tipo de função, etc. Acho que podia ter sido feito apenas mais um plot de correlação. Parabéns pelo trabalho!

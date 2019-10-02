@@ -1,0 +1,6 @@
+Felipe Jaworoski de Campos
+
+
+Muito interessante o conjunto de dados, suas análises foram interessantes. Acho que por fazer sozinho o trabalho fica mais difícil, tanto para implementar algumas ideias (por exemplo, agrupar os menos frequentes em "outros"), e até mesmo para ter ideias de quais perguntas fazer para os dados. 
+Você usou dois tipos de gráficos torta e barra. Ia ser legal ter usado alguns outros. 
+A dica que eu te dou é tentar buscar mais na internet algumas dicas de como fazer o que você está pensando, tipo no stackoverflow mesmo, e não se preocupar com a complexidade das bibliotecas, dá pra fazer bastante coisa sem dominar as bibliotecas, mas só pesquisando mesmo o que você tá precisando. No mais, fico feliz que você já tenha conseguido fazer uma boa eda, espero que você continue fazendo mais análises (de preferência em python haha). Parabéns.

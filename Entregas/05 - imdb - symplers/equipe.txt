@@ -1,0 +1,10 @@
+Carina Esteves
+Joaquim
+Matheus Guim
+Polyanna Figueiredo
+
+Comentários:
+Com poucos gráficos, vocês conseguiram mostrar muita informação útil. Achei muito legal o gráfico de dispersão do imdb_score vs gross: vocês conseguiram demonstrar 4 variáveis ao invés de 2, sem ficar muito poluido ou com ideias desconectadas.
+Foi muito legal vocês terem tratado a coluna de gêneros para fazer um plot de contagem por gênero de filmes, imagino que tenha requerido certo tempo.
+Apenas um ponto de atenção no histograma do orçamento: como foi tirado o log, acredito que os 16 e 17.5 não sejam o orçamento do filme. Seria necessário fazer a transformação e^16 ~ 9 milhões. Uma sugestão que eu daria era usar a função "describe()" para calcular as estatísticas da variável e mostrar isso numéricamente.
+Finalmente, muito interessante o plot de palavras-chaves, dá uma ideia geral do que geralmente esperamos de uma sinopse. Parabéns!

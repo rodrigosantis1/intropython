@@ -1,0 +1,14 @@
+Lucas Prosdocimi
+Nicolas Seiji
+Marco Brum
+Pedro Nader
+
+Observações:
+
+Na pergunta 1, note no primeiro gráfico de dispersão que existe uma faixa ótima de duração (entre  70 e 150). Filmes com menos de 50 minutos ou mais de 250 não parecem ter rentabilidades tão alta. O número de críticas pra revisão também apresenta correlação, porém menor (0.48, se olhar o gráfico da pergunta 7).
+Na pergunta 2 e analisando o gráfico de dispersão, é possível ver que o contrário da a hipótese é verdadeira: quanto maior o filme, maior é a avaliação no IMDb.
+Na pergunta 3, achei que o mapa de calor não ficou muito legal para representar as duas variáveis. Como vocês querem mostrar apenas a evolução de uma variável no tempo, o mais intuitivo seria com um gráfico de linhas ou de barras. O mapa de calor é normalmente usado para mostrar 3 variáveis, pois além dos dois eixos x e y, a escala pode trazer uma terceira variável.
+A representação de linha com a média por ano, mostrou isso melhor, e foi boa a leitura que vocês  fizeram de que a base pode conter apenas bons filmes de antigamente (ou clássicos).
+Na pergunta 5, o ideal seria comparar o quanto de filmes preto e branco são produzidos por país em relação ao quanto elas produzem no total. É natural que o EUA e inglaterra tenha mais filmes P&B, pq eles tem mais filmes no total.
+Na pergunta 8, o atributo de gênero precisaria ser tratado. A forma como o dado está, não pode ser usado diretamente.
+Uma sugestão que dou para suas futuras análises é tentar diminuir o número de gráficos, e colocar mais informação em cada um deles, que favoreçam mais análises em um mesmo gráfico. Mas vocês levantaram boas perguntas, conseguiram chegar a algumas conclusões a partir de suas análises, usando o que a gente viu em sala de aula. Parabéns pelo trabalho!

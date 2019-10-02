@@ -1,0 +1,6 @@
+Klysman
+
+
+Observações:
+Os gráficos ficaram legais, vi que você usou uma boa variedade de tipos de representações: histograma, função de probabilidade, torta, etc. No plot de dispersão de sobrevivência por idade, seria melhor usar um gráfico de boxplot, pois uma das variáveis é categórica.
+Seria interessante ter adicionado apenas um gráfico com as correlações entre as variáveis. Gostei da análise. Parabéns!

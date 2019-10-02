@@ -1,0 +1,13 @@
+Equipe:
+Carolina Kelly Lobo Eufrasio
+Rafael Assuncao Carvalho de Paula
+Henrique Cancado Pereira
+Kenia Gomes Alves
+Shayana Surya Diniz Carvalho
+
+
+Comentários:
+Achei muito completa a análise de vocês, usando as funções para identificar quais eram os valores únicos de cada atributo, quais eram os dados faltantes, etc.
+A análise de atributos de pokemons não-lengendários e legendários também ficou muito boa, algumas surpresas legais a respeito de alguns pokemons não legendários possuirem o maior valor de determinado atributo (ex.: defesa, vida).
+Achei apenas diferente a forma como fizeram o gráfico de correlação, bem original.
+De forma geral, não vejo pontos de melhoria no trabalho, vocês usaram formas de visualizações bem variadas e conseguiram tirar insights legais dos dados. Parabéns!

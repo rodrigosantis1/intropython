@@ -1,0 +1,5 @@
+Matheus Grieder Cougias
+
+Muito original sua análise, usando este banco de dados.
+Achei legal os insights, de as mulheres serem menos mortas, e é engraçado que as que morreram 1x, não morrem uma segunda vez.
+Quanto ao gráfico de evolução das mulheres pelo tempo, na próxima aula podemos trocar uma ideia e ver se conseguimos fazer. Acredito que para isso seja necessário definir um index como tempo, realmente é um processo complicado. Mas no geral você usou uma boa variedade de gráficos, fez boas perguntas e soube chegar a conclusões. Parabéns pelo trabalho!

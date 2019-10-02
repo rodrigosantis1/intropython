@@ -1,0 +1,8 @@
+Rafael Canedo Sanglard Starling Albuquer
+
+
+Comentários:
+Achei muito legal o dataset, esse eu não conhecia mesmo. rs
+Você conseguiu mostrar os principais insights do banco de dados, que é o número de cores, os conjuntos mais famosos, o número de lançamento por ano, e linkar isso com formações externas como o dado do lançamento do filme.
+O gráfico de numério média de peças por coleções está muito bem representado, com um bom uso da linha de tendência.
+Parabéns!

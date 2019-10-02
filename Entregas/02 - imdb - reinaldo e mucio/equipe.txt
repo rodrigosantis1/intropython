@@ -1,0 +1,11 @@
+Equipe:
+Reinaldo Augusto D. Sima - 2016025985
+Múcio Henrique Mourão - 2016025861
+
+
+Comentários:
+O código de vocês está muito organizado, achei muito bom vocês conseguirem usar programação funcional (apply e lambda) para criar novas variáveis de acordo com o que vocês queriam. Isso mostra que vocês foram além do ensinado em sala de aula, e é isso que devemos fazer mesmo.
+O nível de plots está legal, todos trazendo bastante informação relevante sobre o problema: diretores e atores mais rentáveis, países com mais produção. Um plus para a análise, seria fazer um count por categoria de filme (thriller, action, etc.), mas entendo que isto requer um tratamento mais intensivo dos dados.
+Nesta primeira parte todos gráficos usados foram de barra, talvez fosse desse pra aplicar uns gráficos diferentes, i.e. linhas indicando crescimento pelo tempo, boxplots comparando alguma variável categórico.
+Os gráficos de regressão também ficaram legal, acho que vocês poderiam ter adicionado aqui um gráfico de correlação de todas as variáveis, para dar uma visão mais geral, e depois entrar no detalhe.
+No mais, o trabalho ficou bem legal, acredito que vocês tenham conseguido levantar e responder algumas perguntas interessantes sobre o dataset. Parabéns!
