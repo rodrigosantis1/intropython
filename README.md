@@ -11,14 +11,17 @@ Prof.: Rodrigo Barbosa de Santis
 * Capítulo 4. Análise Exploratória de Dados - [Slide](https://github.com/rodrigosantis1/intropython/blob/master/Slides/04%20-%20Analise%20Exploratoria.pdf) | [Script](https://github.com/rodrigosantis1/intropython/blob/master/Scripts/Cap%2004%20-%20Representacao%20de%20Dados.ipynb)
 * Capítulo 5. Aprendizado Supervisionado - [Slide](https://github.com/rodrigosantis1/intropython/blob/master/Slides/05%20-%20Aprendizado%20Supervisionado%20e%20N%C3%A3o-Supervisionado.pdf) | [Script](https://github.com/rodrigosantis1/intropython/blob/master/Scripts/Cap%2005%20-%20Aprendizado%20Supervisionado.ipynb) | [Exercício](https://github.com/rodrigosantis1/intropython/blob/master/Exercicios/Cap%205%20-%20Aprendizado%20Supervisionado.ipynb) | [Solução](https://github.com/rodrigosantis1/intropython/blob/master/Soluções/Cap%205%20-%20Aprendizado%20Supervisionado.ipynb)
 * Capítulo 6. Aprendizado Não-Supervisionado - [Script](https://github.com/rodrigosantis1/intropython/blob/master/Scripts/Cap%2006%20-%20Aprendizado%20N%C3%A3o-Supervisionado.ipynb) | [Exercício](https://github.com/rodrigosantis1/intropython/blob/master/Exercicios/Cap%2006%20-%20Aprendizado%20N%C3%A3o-Supervisionado.ipynb) | [Solução](https://github.com/rodrigosantis1/intropython/blob/master/Solu%C3%A7%C3%B5es/Cap%2006%20-%20Aprendizado%20N%C3%A3o-Supervisionado.ipynb)
-* Capítulo 7. Seleção de Modelos - [Script](https://github.com/rodrigosantis1/intropython/blob/master/Scripts/Cap%2007%20-%20Sele%C3%A7%C3%A3o%20de%20Modelos.ipynb)
-* Capítulo 8. Engenharia de Atributos e Pipeline
-* Capítulo 9. Mineração de Texto
-* Capítulo 10. Aprendizado Profundo -  [Script](https://github.com/rodrigosantis1/intropython/blob/master/Scripts/Cap%2010%20-%20Aprendizado%20Profundo.ipynb)
+* Capítulo 7. Seleção de Modelos e Pipeline - [Script](https://github.com/rodrigosantis1/intropython/blob/master/Scripts/Cap%2007%20-%20Sele%C3%A7%C3%A3o%20de%20Modelos.ipynb)
+* Capítulo 8. Mineração de Texto
+* Capítulo 9. Aprendizado Profundo -  [Script](https://github.com/rodrigosantis1/intropython/blob/master/Scripts/Cap%2010%20-%20Aprendizado%20Profundo.ipynb)
 
 ## Apostila com Notas de Aula
 
 * [Introdução ao Python - Notas de Aula](https://www.scribd.com/document/426243007/Introducao-ao-Python)
+
+## Soluções dos Alunos
+
+* [EDA]
 
 ## Material Complementar
 
@@ -34,12 +37,16 @@ Prof.: Rodrigo Barbosa de Santis
 
 ### EDA
 
-#### Análises exploratórios interessantes - EDA:
+#### Análises exploratórias interessantes - EDA:
 
 * [Titanic](https://www.kaggle.com/ash316/eda-to-prediction-dietanic)
 * [Stock Movement](https://www.kaggle.com/artgor/eda-feature-engineering-and-everything)
 * [Boston House](https://www.kaggle.com/dgawlik/house-prices-eda)
 * [Medical Cost](https://virtual.ufmg.br/20192/mod/url/view.php?id=74373)
+
+#### Análises exploratórias dos alunos:
+
+* [Turma 2019.2](https://github.com/rodrigosantis1/intropython/tree/master/Entregas)
 
 ### Deep learning
 
