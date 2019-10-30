@@ -19,10 +19,6 @@ Prof.: Rodrigo Barbosa de Santis
 
 * [Introdução ao Python - Notas de Aula](https://www.scribd.com/document/426243007/Introducao-ao-Python)
 
-## Soluções dos Alunos
-
-* [EDA]
-
 ## Material Complementar
 
 ### Python
